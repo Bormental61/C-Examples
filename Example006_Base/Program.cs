@@ -16,6 +16,12 @@
         if (d > max) max = d;
         if (e > max) max = e;
 
+        System.Console.WriteLine("Find Max");
+        System.Console.WriteLine(a);
+        System.Console.WriteLine(b);
+        System.Console.WriteLine(c);
+        System.Console.WriteLine(d);
+        System.Console.WriteLine(e);
         System.Console.Write("Max = ");
         System.Console.WriteLine(max);
     }
